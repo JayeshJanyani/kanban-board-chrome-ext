@@ -1,0 +1,15 @@
+{
+  "name": "Kanban Board Extension",
+  "description": "A Kanban board Chrome extension",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "icons": {
+    "16": "qr-icon(16).png",
+    "48": "qr-icon(48).png",
+    "128": "qr-icon(128).png"
+  },
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": []
+}
